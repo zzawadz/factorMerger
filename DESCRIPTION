@@ -1,0 +1,10 @@
+Package: factorMerger
+Type: Package
+Title: Simple GUI in shiny for merging factors' levels in data.frames.
+Version: 0.1.0
+Author: Zygmunt Zawadzki
+Maintainer: Zygmunt Zawadzki <zygmunt@zstat.pl>
+Description: Coming soon.
+License: GPL-3
+LazyData: TRUE
+Depends: dragulaR, stringdist, magrittr, shiny
